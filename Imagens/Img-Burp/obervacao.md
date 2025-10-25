@@ -1,0 +1,1 @@
+Observa-se que, devido a reexecuções do ambiente de teste para fins de documentação, os valores de *hash* ou *token* nas últimas três imagens podem variar em relação aos iniciais. No entanto, a metodologia e o fluxo de exploração da vulnerabilidade são idênticos e válidos.
